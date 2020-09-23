@@ -1,0 +1,7 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\mp3 file\shellex]
+
+[HKEY_CLASSES_ROOT\mp3 file\shellex\PropertySheetHandlers\MP3PropSheet]
+@ = "{75D84522-D3FF-4024-BD3F-245B299CBF07}"
+

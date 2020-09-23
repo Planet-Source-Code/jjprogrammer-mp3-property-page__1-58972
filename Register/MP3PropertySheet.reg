@@ -1,0 +1,4 @@
+[HKEY_CLASSES_ROOT\.mp3]
+@=mp3 file
+[HKEY_CLASSES_ROOT\mp3 file\shellex\PropertySheetHandlers\MP3PropertySheet]
+@={3F6B663C-37D9-4501-BE31-FB68D748AADD}
